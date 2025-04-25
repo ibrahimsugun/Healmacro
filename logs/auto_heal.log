@@ -1,0 +1,677 @@
+2025-04-25 19:31:02,917 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-04-25 19:31:02,917 - qdarkstyle - INFO - Found version patches to be applied.
+2025-04-25 19:31:02,919 - qdarkstyle - INFO - Found application patches to be applied.
+2025-04-25 19:31:02,956 - ScreenService - INFO - MSS kütüphanesi baþlatýlýyor...
+2025-04-25 19:31:03,026 - ScreenService - INFO - MSS baþarýyla baþlatýldý ve test edildi.
+2025-04-25 19:31:03,027 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla yüklendi: settings.ini
+2025-04-25 19:31:03,204 - AutoHealBuffWidget - INFO - Auto Heal ve Buff arayüzü oluþturuldu.
+2025-04-25 19:31:03,210 - AutoHealBuffWidget - WARNING - Satýr 1 için geçersiz koordinat formatý
+2025-04-25 19:31:03,210 - AutoHealBuffWidget - WARNING - Satýr 2 için geçersiz koordinat formatý
+2025-04-25 19:31:03,210 - AutoHealBuffWidget - WARNING - Satýr 3 için geçersiz koordinat formatý
+2025-04-25 19:31:03,210 - AutoHealBuffWidget - WARNING - Satýr 4 için geçersiz koordinat formatý
+2025-04-25 19:31:03,210 - AutoHealBuffWidget - WARNING - Satýr 5 için geçersiz koordinat formatý
+2025-04-25 19:31:03,211 - AutoHealBuffWidget - WARNING - Satýr 6 için geçersiz koordinat formatý
+2025-04-25 19:31:03,211 - AutoHealBuffWidget - WARNING - Satýr 7 için geçersiz koordinat formatý
+2025-04-25 19:31:03,211 - AutoHealBuffWidget - WARNING - Satýr 8 için geçersiz koordinat formatý
+2025-04-25 19:31:03,212 - BuffWidget - INFO - Normal Buff tuþu '' olarak ayarlandý
+2025-04-25 19:31:03,212 - BuffWidget - INFO - Normal Buff süresi 60 saniye olarak ayarlandý
+2025-04-25 19:31:03,212 - BuffWidget - INFO - AC (Anti-Cheat) tuþu '' olarak ayarlandý
+2025-04-25 19:31:03,212 - BuffWidget - INFO - AC (Anti-Cheat) süresi 60 saniye olarak ayarlandý
+2025-04-25 19:31:03,212 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:31:03,213 - root - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:31:03,213 - root - INFO - Knight Online Otomatik Ýyileþtirme ve Buff Sistemi baþlatýldý.
+2025-04-25 19:31:32,502 - AutoHealBuffWidget - INFO - Ýyileþtirme tuþu '12' olarak ayarlandý
+2025-04-25 19:31:32,734 - AutoHealBuffWidget - INFO - Ýyileþtirme tuþu '122' olarak ayarlandý
+2025-04-25 19:31:33,326 - AutoHealBuffWidget - INFO - Ýyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:31:33,576 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '12' olarak ayarlandý
+2025-04-25 19:31:33,599 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '22' olarak ayarlandý
+2025-04-25 19:31:33,687 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '232' olarak ayarlandý
+2025-04-25 19:31:35,598 - AutoHealBuffWidget - INFO - Toplu iyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:31:39,778 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:31:39,809 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:31:39,826 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:31:39,848 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:31:43,134 - BuffWidget - INFO - AC (Anti-Cheat) tuþu '4' olarak ayarlandý
+2025-04-25 19:31:43,487 - BuffWidget - INFO - Normal Buff tuþu '2' olarak ayarlandý
+2025-04-25 19:31:44,921 - BuffWidget - INFO - AC (Anti-Cheat) aktif durumu deðiþti: True
+2025-04-25 19:31:46,164 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 500 ms olarak ayarlandý
+2025-04-25 19:31:46,196 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 500 ms olarak ayarlandý
+2025-04-25 19:31:46,348 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 500 ms olarak ayarlandý
+2025-04-25 19:31:53,521 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla kaydedildi.
+2025-04-25 19:31:53,522 - SettingsManager - INFO - Yapýlandýrma dosyasý yedeklendi: settings.ini.bak
+2025-04-25 19:31:53,522 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla kaydedildi: settings.ini
+2025-04-25 19:31:53,523 - root - INFO - Ayarlar baþarýyla kaydedildi.
+2025-04-25 19:31:53,523 - root - INFO - Uygulama kapatýldý.
+2025-04-25 19:33:59,966 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-04-25 19:33:59,966 - qdarkstyle - INFO - Found version patches to be applied.
+2025-04-25 19:33:59,967 - qdarkstyle - INFO - Found application patches to be applied.
+2025-04-25 19:33:59,974 - ScreenService - INFO - MSS kütüphanesi baþlatýlýyor...
+2025-04-25 19:34:00,029 - ScreenService - INFO - MSS baþarýyla baþlatýldý ve test edildi.
+2025-04-25 19:34:00,031 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla yüklendi: settings.ini
+2025-04-25 19:34:00,167 - AutoHealBuffWidget - INFO - Auto Heal ve Buff arayüzü oluþturuldu.
+2025-04-25 19:34:00,168 - AutoHealBuffWidget - INFO - Ýyileþtirme tuþu '122' olarak ayarlandý
+2025-04-25 19:34:00,169 - AutoHealBuffWidget - INFO - Ýyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:34:00,170 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '232' olarak ayarlandý
+2025-04-25 19:34:00,170 - AutoHealBuffWidget - INFO - Toplu iyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:34:00,171 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:34:00,171 - AutoHealBuffWidget - WARNING - Satýr 1 için geçersiz koordinat formatý
+2025-04-25 19:34:00,171 - AutoHealBuffWidget - WARNING - Satýr 2 için geçersiz koordinat formatý
+2025-04-25 19:34:00,171 - AutoHealBuffWidget - WARNING - Satýr 3 için geçersiz koordinat formatý
+2025-04-25 19:34:00,172 - AutoHealBuffWidget - WARNING - Satýr 4 için geçersiz koordinat formatý
+2025-04-25 19:34:00,173 - AutoHealBuffWidget - WARNING - Satýr 5 için geçersiz koordinat formatý
+2025-04-25 19:34:00,173 - AutoHealBuffWidget - WARNING - Satýr 6 için geçersiz koordinat formatý
+2025-04-25 19:34:00,173 - AutoHealBuffWidget - WARNING - Satýr 7 için geçersiz koordinat formatý
+2025-04-25 19:34:00,174 - AutoHealBuffWidget - WARNING - Satýr 8 için geçersiz koordinat formatý
+2025-04-25 19:34:00,174 - BuffWidget - INFO - Normal Buff tuþu '' olarak ayarlandý
+2025-04-25 19:34:00,177 - BuffWidget - INFO - Normal Buff süresi 60 saniye olarak ayarlandý
+2025-04-25 19:34:00,177 - BuffWidget - INFO - AC (Anti-Cheat) tuþu '' olarak ayarlandý
+2025-04-25 19:34:00,178 - BuffWidget - INFO - AC (Anti-Cheat) süresi 60 saniye olarak ayarlandý
+2025-04-25 19:34:00,178 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:34:00,179 - root - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:34:00,179 - root - INFO - Knight Online Otomatik Ýyileþtirme ve Buff Sistemi baþlatýldý.
+2025-04-25 19:34:14,912 - HealRowWidget - INFO - Satýr 7 aktif olarak ayarlandý
+2025-04-25 19:34:17,162 - HealRowWidget - INFO - Satýr 7 pasif olarak ayarlandý
+2025-04-25 19:34:19,565 - HealRowWidget - INFO - Satýr 8 aktif olarak ayarlandý
+2025-04-25 19:34:19,958 - HealRowWidget - INFO - Satýr 8 pasif olarak ayarlandý
+2025-04-25 19:35:29,573 - AutoHealBuffWidget - INFO - Ýyileþtirme yüzdesi %81 olarak ayarlandý
+2025-04-25 19:35:29,772 - AutoHealBuffWidget - INFO - Ýyileþtirme yüzdesi %82 olarak ayarlandý
+2025-04-25 19:35:30,182 - AutoHealBuffWidget - INFO - Ýyileþtirme yüzdesi %83 olarak ayarlandý
+2025-04-25 19:35:30,378 - AutoHealBuffWidget - INFO - Ýyileþtirme yüzdesi %84 olarak ayarlandý
+2025-04-25 19:35:30,568 - AutoHealBuffWidget - INFO - Ýyileþtirme yüzdesi %85 olarak ayarlandý
+2025-04-25 19:35:30,796 - AutoHealBuffWidget - INFO - Ýyileþtirme yüzdesi %86 olarak ayarlandý
+2025-04-25 19:35:35,878 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-04-25 19:35:35,879 - qdarkstyle - INFO - Found version patches to be applied.
+2025-04-25 19:35:35,879 - qdarkstyle - INFO - Found application patches to be applied.
+2025-04-25 19:35:35,886 - ScreenService - INFO - MSS kütüphanesi baþlatýlýyor...
+2025-04-25 19:35:35,943 - ScreenService - INFO - MSS baþarýyla baþlatýldý ve test edildi.
+2025-04-25 19:35:35,944 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla yüklendi: settings.ini
+2025-04-25 19:35:36,075 - AutoHealBuffWidget - INFO - Auto Heal ve Buff arayüzü oluþturuldu.
+2025-04-25 19:35:36,077 - AutoHealBuffWidget - INFO - Ýyileþtirme tuþu '122' olarak ayarlandý
+2025-04-25 19:35:36,077 - AutoHealBuffWidget - INFO - Ýyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:35:36,077 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '232' olarak ayarlandý
+2025-04-25 19:35:36,078 - AutoHealBuffWidget - INFO - Toplu iyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:35:36,078 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:35:36,078 - AutoHealBuffWidget - WARNING - Satýr 1 için geçersiz koordinat formatý
+2025-04-25 19:35:36,078 - AutoHealBuffWidget - WARNING - Satýr 2 için geçersiz koordinat formatý
+2025-04-25 19:35:36,079 - AutoHealBuffWidget - WARNING - Satýr 3 için geçersiz koordinat formatý
+2025-04-25 19:35:36,079 - AutoHealBuffWidget - WARNING - Satýr 4 için geçersiz koordinat formatý
+2025-04-25 19:35:36,079 - AutoHealBuffWidget - WARNING - Satýr 5 için geçersiz koordinat formatý
+2025-04-25 19:35:36,079 - AutoHealBuffWidget - WARNING - Satýr 6 için geçersiz koordinat formatý
+2025-04-25 19:35:36,079 - AutoHealBuffWidget - WARNING - Satýr 7 için geçersiz koordinat formatý
+2025-04-25 19:35:36,079 - AutoHealBuffWidget - WARNING - Satýr 8 için geçersiz koordinat formatý
+2025-04-25 19:35:36,079 - BuffWidget - INFO - Normal Buff tuþu '' olarak ayarlandý
+2025-04-25 19:35:36,080 - BuffWidget - INFO - Normal Buff süresi 60 saniye olarak ayarlandý
+2025-04-25 19:35:36,080 - BuffWidget - INFO - AC (Anti-Cheat) tuþu '' olarak ayarlandý
+2025-04-25 19:35:36,080 - BuffWidget - INFO - AC (Anti-Cheat) süresi 60 saniye olarak ayarlandý
+2025-04-25 19:35:36,080 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:35:36,080 - root - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:35:36,080 - root - INFO - Knight Online Otomatik Ýyileþtirme ve Buff Sistemi baþlatýldý.
+2025-04-25 19:36:03,358 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '23' olarak ayarlandý
+2025-04-25 19:36:03,511 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '2' olarak ayarlandý
+2025-04-25 19:36:08,527 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu 'd' olarak ayarlandý
+2025-04-25 19:36:09,550 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '2' olarak ayarlandý
+2025-04-25 19:36:34,004 - AutoHealBuffWidget - INFO - Toplu iyileþtirme yüzdesi %59 olarak ayarlandý
+2025-04-25 19:36:34,027 - AutoHealBuffWidget - INFO - Toplu iyileþtirme yüzdesi %58 olarak ayarlandý
+2025-04-25 19:36:34,060 - AutoHealBuffWidget - INFO - Toplu iyileþtirme yüzdesi %57 olarak ayarlandý
+2025-04-25 19:36:34,074 - AutoHealBuffWidget - INFO - Toplu iyileþtirme yüzdesi %56 olarak ayarlandý
+2025-04-25 19:36:34,374 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:34,398 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:34,412 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:34,428 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:34,452 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:35,154 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:35,206 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:35,256 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:35,310 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:35,824 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:35,878 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:35,940 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:45,260 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:45,282 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:45,314 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:45,352 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:45,672 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:45,694 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:45,718 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:36:45,758 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:37:40,635 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-04-25 19:37:40,635 - qdarkstyle - INFO - Found version patches to be applied.
+2025-04-25 19:37:40,635 - qdarkstyle - INFO - Found application patches to be applied.
+2025-04-25 19:37:40,643 - ScreenService - INFO - MSS kütüphanesi baþlatýlýyor...
+2025-04-25 19:37:40,706 - ScreenService - INFO - MSS baþarýyla baþlatýldý ve test edildi.
+2025-04-25 19:37:40,708 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla yüklendi: settings.ini
+2025-04-25 19:37:40,839 - AutoHealBuffWidget - INFO - Auto Heal ve Buff arayüzü oluþturuldu.
+2025-04-25 19:37:40,841 - AutoHealBuffWidget - INFO - Ýyileþtirme tuþu '122' olarak ayarlandý
+2025-04-25 19:37:40,841 - AutoHealBuffWidget - INFO - Ýyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:37:40,841 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '232' olarak ayarlandý
+2025-04-25 19:37:40,842 - AutoHealBuffWidget - INFO - Toplu iyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:37:40,842 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:37:40,842 - AutoHealBuffWidget - WARNING - Satýr 1 için geçersiz koordinat formatý
+2025-04-25 19:37:40,842 - AutoHealBuffWidget - WARNING - Satýr 2 için geçersiz koordinat formatý
+2025-04-25 19:37:40,843 - AutoHealBuffWidget - WARNING - Satýr 3 için geçersiz koordinat formatý
+2025-04-25 19:37:40,843 - AutoHealBuffWidget - WARNING - Satýr 4 için geçersiz koordinat formatý
+2025-04-25 19:37:40,843 - AutoHealBuffWidget - WARNING - Satýr 5 için geçersiz koordinat formatý
+2025-04-25 19:37:40,843 - AutoHealBuffWidget - WARNING - Satýr 6 için geçersiz koordinat formatý
+2025-04-25 19:37:40,843 - AutoHealBuffWidget - WARNING - Satýr 7 için geçersiz koordinat formatý
+2025-04-25 19:37:40,843 - AutoHealBuffWidget - WARNING - Satýr 8 için geçersiz koordinat formatý
+2025-04-25 19:37:40,843 - BuffWidget - INFO - Normal Buff tuþu '' olarak ayarlandý
+2025-04-25 19:37:40,843 - BuffWidget - INFO - Normal Buff süresi 60 saniye olarak ayarlandý
+2025-04-25 19:37:40,844 - BuffWidget - INFO - AC (Anti-Cheat) tuþu '' olarak ayarlandý
+2025-04-25 19:37:40,844 - BuffWidget - INFO - AC (Anti-Cheat) süresi 60 saniye olarak ayarlandý
+2025-04-25 19:37:40,844 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:37:40,844 - root - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:37:40,844 - root - INFO - Knight Online Otomatik Ýyileþtirme ve Buff Sistemi baþlatýldý.
+2025-04-25 19:37:43,294 - AutoHealBuffWidget - INFO - Satýr 1 için koordinat alma iþlemi baþlatýldý
+2025-04-25 19:37:48,466 - root - INFO - Satýr 1 için koordinat alma modu baþlatýldý.
+2025-04-25 19:37:54,397 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla kaydedildi.
+2025-04-25 19:37:54,397 - SettingsManager - INFO - Yapýlandýrma dosyasý yedeklendi: settings.ini.bak
+2025-04-25 19:37:54,397 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla kaydedildi: settings.ini
+2025-04-25 19:37:54,397 - root - INFO - Ayarlar baþarýyla kaydedildi.
+2025-04-25 19:37:54,397 - root - INFO - Uygulama kapatýldý.
+2025-04-25 19:38:01,905 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-04-25 19:38:01,905 - qdarkstyle - INFO - Found version patches to be applied.
+2025-04-25 19:38:01,905 - qdarkstyle - INFO - Found application patches to be applied.
+2025-04-25 19:38:01,913 - ScreenService - INFO - MSS kütüphanesi baþlatýlýyor...
+2025-04-25 19:38:01,972 - ScreenService - INFO - MSS baþarýyla baþlatýldý ve test edildi.
+2025-04-25 19:38:01,973 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla yüklendi: settings.ini
+2025-04-25 19:38:02,141 - AutoHealBuffWidget - INFO - Auto Heal ve Buff arayüzü oluþturuldu.
+2025-04-25 19:38:02,143 - AutoHealBuffWidget - INFO - Ýyileþtirme tuþu '122' olarak ayarlandý
+2025-04-25 19:38:02,143 - AutoHealBuffWidget - INFO - Ýyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:38:02,143 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '232' olarak ayarlandý
+2025-04-25 19:38:02,143 - AutoHealBuffWidget - INFO - Toplu iyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:38:02,144 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:38:02,144 - AutoHealBuffWidget - WARNING - Satýr 1 için geçersiz koordinat formatý
+2025-04-25 19:38:02,144 - AutoHealBuffWidget - WARNING - Satýr 2 için geçersiz koordinat formatý
+2025-04-25 19:38:02,144 - AutoHealBuffWidget - WARNING - Satýr 3 için geçersiz koordinat formatý
+2025-04-25 19:38:02,144 - AutoHealBuffWidget - WARNING - Satýr 4 için geçersiz koordinat formatý
+2025-04-25 19:38:02,144 - AutoHealBuffWidget - WARNING - Satýr 5 için geçersiz koordinat formatý
+2025-04-25 19:38:02,144 - AutoHealBuffWidget - WARNING - Satýr 6 için geçersiz koordinat formatý
+2025-04-25 19:38:02,144 - AutoHealBuffWidget - WARNING - Satýr 7 için geçersiz koordinat formatý
+2025-04-25 19:38:02,145 - AutoHealBuffWidget - WARNING - Satýr 8 için geçersiz koordinat formatý
+2025-04-25 19:38:02,145 - BuffWidget - INFO - Normal Buff tuþu '' olarak ayarlandý
+2025-04-25 19:38:02,145 - BuffWidget - INFO - Normal Buff süresi 60 saniye olarak ayarlandý
+2025-04-25 19:38:02,145 - BuffWidget - INFO - AC (Anti-Cheat) tuþu '' olarak ayarlandý
+2025-04-25 19:38:02,145 - BuffWidget - INFO - AC (Anti-Cheat) süresi 60 saniye olarak ayarlandý
+2025-04-25 19:38:02,145 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:38:02,145 - root - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:38:02,145 - root - INFO - Knight Online Otomatik Ýyileþtirme ve Buff Sistemi baþlatýldý.
+2025-04-25 19:40:47,806 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-04-25 19:40:47,806 - qdarkstyle - INFO - Found version patches to be applied.
+2025-04-25 19:40:47,807 - qdarkstyle - INFO - Found application patches to be applied.
+2025-04-25 19:40:47,814 - ScreenService - INFO - MSS kütüphanesi baþlatýlýyor...
+2025-04-25 19:40:47,873 - ScreenService - INFO - MSS baþarýyla baþlatýldý ve test edildi.
+2025-04-25 19:40:47,874 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla yüklendi: settings.ini
+2025-04-25 19:40:48,015 - AutoHealBuffWidget - INFO - Auto Heal ve Buff arayüzü oluþturuldu.
+2025-04-25 19:40:48,017 - AutoHealBuffWidget - INFO - Ýyileþtirme tuþu '122' olarak ayarlandý
+2025-04-25 19:40:48,017 - AutoHealBuffWidget - INFO - Ýyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:40:48,018 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '232' olarak ayarlandý
+2025-04-25 19:40:48,018 - AutoHealBuffWidget - INFO - Toplu iyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:40:48,018 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:40:48,018 - AutoHealBuffWidget - WARNING - Satýr 1 için geçersiz koordinat formatý
+2025-04-25 19:40:48,018 - AutoHealBuffWidget - WARNING - Satýr 2 için geçersiz koordinat formatý
+2025-04-25 19:40:48,019 - AutoHealBuffWidget - WARNING - Satýr 3 için geçersiz koordinat formatý
+2025-04-25 19:40:48,019 - AutoHealBuffWidget - WARNING - Satýr 4 için geçersiz koordinat formatý
+2025-04-25 19:40:48,019 - AutoHealBuffWidget - WARNING - Satýr 5 için geçersiz koordinat formatý
+2025-04-25 19:40:48,019 - AutoHealBuffWidget - WARNING - Satýr 6 için geçersiz koordinat formatý
+2025-04-25 19:40:48,019 - AutoHealBuffWidget - WARNING - Satýr 7 için geçersiz koordinat formatý
+2025-04-25 19:40:48,019 - AutoHealBuffWidget - WARNING - Satýr 8 için geçersiz koordinat formatý
+2025-04-25 19:40:48,019 - BuffWidget - INFO - Normal Buff tuþu '' olarak ayarlandý
+2025-04-25 19:40:48,019 - BuffWidget - INFO - Normal Buff süresi 60 saniye olarak ayarlandý
+2025-04-25 19:40:48,019 - BuffWidget - INFO - AC (Anti-Cheat) tuþu '' olarak ayarlandý
+2025-04-25 19:40:48,020 - BuffWidget - INFO - AC (Anti-Cheat) süresi 60 saniye olarak ayarlandý
+2025-04-25 19:40:48,020 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:40:48,020 - root - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:40:48,020 - root - INFO - Knight Online Otomatik Ýyileþtirme ve Buff Sistemi baþlatýldý.
+2025-04-25 19:40:51,513 - AutoHealBuffWidget - INFO - Satýr 6 için koordinat alma iþlemi baþlatýldý
+2025-04-25 19:40:55,429 - root - INFO - Satýr 6 için koordinat alma modu baþlatýldý.
+2025-04-25 19:40:56,856 - AutoHealBuffWidget - INFO - Satýr 6 koordinatlarý ayarlandý: SOL (1030, 464)
+2025-04-25 19:40:56,857 - root - INFO - Satýr 6 için ilk koordinat alýndý: (1030,464).
+2025-04-25 19:40:58,878 - AutoHealBuffWidget - INFO - Satýr 6 koordinatlarý ayarlandý: TAMAMLANDI: (1030, 464) - (1123, 479)
+2025-04-25 19:40:58,878 - root - INFO - Satýr 0 için koordinatlar baþarýyla alýndý.
+2025-04-25 19:41:07,668 - HealRowWidget - INFO - Satýr 6 aktif olarak ayarlandý
+2025-04-25 19:41:13,546 - AutoHealBuffWidget - INFO - Parti kontrolü aktif olarak ayarlandý
+2025-04-25 19:41:16,370 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 500 ms olarak ayarlandý
+2025-04-25 19:41:16,394 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 500 ms olarak ayarlandý
+2025-04-25 19:41:16,417 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 500 ms olarak ayarlandý
+2025-04-25 19:41:16,433 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 500 ms olarak ayarlandý
+2025-04-25 19:41:16,504 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 500 ms olarak ayarlandý
+2025-04-25 19:41:17,492 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 500 ms olarak ayarlandý
+2025-04-25 19:41:17,512 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 500 ms olarak ayarlandý
+2025-04-25 19:41:17,535 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 500 ms olarak ayarlandý
+2025-04-25 19:41:17,565 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 500 ms olarak ayarlandý
+2025-04-25 19:41:17,635 - AutoHealBuffWidget - INFO - Ýyileþtirme kontrol frekansý 500 ms olarak ayarlandý
+2025-04-25 19:41:20,391 - AutoHealBuffWidget - INFO - Parti kontrolü pasif olarak ayarlandý
+2025-04-25 19:41:26,284 - HealRowWidget - INFO - Satýr 6 pasif olarak ayarlandý
+2025-04-25 19:41:27,322 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla kaydedildi.
+2025-04-25 19:41:27,323 - SettingsManager - INFO - Yapýlandýrma dosyasý yedeklendi: settings.ini.bak
+2025-04-25 19:41:27,323 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla kaydedildi: settings.ini
+2025-04-25 19:41:27,325 - root - INFO - Ayarlar baþarýyla kaydedildi.
+2025-04-25 19:41:27,325 - root - INFO - Uygulama kapatýldý.
+2025-04-25 19:41:49,462 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-04-25 19:41:49,462 - qdarkstyle - INFO - Found version patches to be applied.
+2025-04-25 19:41:49,462 - qdarkstyle - INFO - Found application patches to be applied.
+2025-04-25 19:41:49,470 - ScreenService - INFO - MSS kütüphanesi baþlatýlýyor...
+2025-04-25 19:41:49,524 - ScreenService - INFO - MSS baþarýyla baþlatýldý ve test edildi.
+2025-04-25 19:41:49,526 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla yüklendi: settings.ini
+2025-04-25 19:41:49,666 - AutoHealBuffWidget - INFO - Auto Heal ve Buff arayüzü oluþturuldu.
+2025-04-25 19:41:49,668 - AutoHealBuffWidget - INFO - Ýyileþtirme tuþu '122' olarak ayarlandý
+2025-04-25 19:41:49,668 - AutoHealBuffWidget - INFO - Ýyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:41:49,669 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '232' olarak ayarlandý
+2025-04-25 19:41:49,669 - AutoHealBuffWidget - INFO - Toplu iyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:41:49,669 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:41:49,669 - AutoHealBuffWidget - WARNING - Satýr 1 için geçersiz koordinat formatý
+2025-04-25 19:41:49,670 - AutoHealBuffWidget - WARNING - Satýr 2 için geçersiz koordinat formatý
+2025-04-25 19:41:49,670 - AutoHealBuffWidget - WARNING - Satýr 3 için geçersiz koordinat formatý
+2025-04-25 19:41:49,670 - AutoHealBuffWidget - WARNING - Satýr 4 için geçersiz koordinat formatý
+2025-04-25 19:41:49,670 - AutoHealBuffWidget - WARNING - Satýr 5 için geçersiz koordinat formatý
+2025-04-25 19:41:49,670 - AutoHealBuffWidget - WARNING - Satýr 7 için geçersiz koordinat formatý
+2025-04-25 19:41:49,671 - AutoHealBuffWidget - WARNING - Satýr 8 için geçersiz koordinat formatý
+2025-04-25 19:41:49,671 - BuffWidget - INFO - Normal Buff tuþu '' olarak ayarlandý
+2025-04-25 19:41:49,671 - BuffWidget - INFO - Normal Buff süresi 60 saniye olarak ayarlandý
+2025-04-25 19:41:49,671 - BuffWidget - INFO - AC (Anti-Cheat) tuþu '' olarak ayarlandý
+2025-04-25 19:41:49,671 - BuffWidget - INFO - AC (Anti-Cheat) süresi 60 saniye olarak ayarlandý
+2025-04-25 19:41:49,671 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:41:49,671 - root - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:41:49,671 - root - INFO - Knight Online Otomatik Ýyileþtirme ve Buff Sistemi baþlatýldý.
+2025-04-25 19:42:06,012 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla kaydedildi.
+2025-04-25 19:42:06,013 - SettingsManager - INFO - Yapýlandýrma dosyasý yedeklendi: settings.ini.bak
+2025-04-25 19:42:06,013 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla kaydedildi: settings.ini
+2025-04-25 19:42:06,013 - root - INFO - Ayarlar baþarýyla kaydedildi.
+2025-04-25 19:42:06,014 - root - INFO - Uygulama kapatýldý.
+2025-04-25 19:43:23,256 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-04-25 19:43:23,257 - qdarkstyle - INFO - Found version patches to be applied.
+2025-04-25 19:43:23,257 - qdarkstyle - INFO - Found application patches to be applied.
+2025-04-25 19:43:23,264 - ScreenService - INFO - MSS kütüphanesi baþlatýlýyor...
+2025-04-25 19:43:23,322 - ScreenService - INFO - MSS baþarýyla baþlatýldý ve test edildi.
+2025-04-25 19:43:23,323 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla yüklendi: settings.ini
+2025-04-25 19:43:23,468 - AutoHealBuffWidget - INFO - Auto Heal ve Buff arayüzü oluþturuldu.
+2025-04-25 19:43:23,470 - AutoHealBuffWidget - INFO - Ýyileþtirme tuþu '122' olarak ayarlandý
+2025-04-25 19:43:23,471 - AutoHealBuffWidget - INFO - Ýyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:43:23,471 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '232' olarak ayarlandý
+2025-04-25 19:43:23,471 - AutoHealBuffWidget - INFO - Toplu iyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:43:23,471 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 400 ms olarak ayarlandý
+2025-04-25 19:43:23,472 - AutoHealBuffWidget - WARNING - Satýr 1 için geçersiz koordinat formatý
+2025-04-25 19:43:23,472 - AutoHealBuffWidget - WARNING - Satýr 2 için geçersiz koordinat formatý
+2025-04-25 19:43:23,472 - AutoHealBuffWidget - WARNING - Satýr 3 için geçersiz koordinat formatý
+2025-04-25 19:43:23,472 - AutoHealBuffWidget - WARNING - Satýr 4 için geçersiz koordinat formatý
+2025-04-25 19:43:23,473 - AutoHealBuffWidget - WARNING - Satýr 5 için geçersiz koordinat formatý
+2025-04-25 19:43:23,473 - AutoHealBuffWidget - WARNING - Satýr 7 için geçersiz koordinat formatý
+2025-04-25 19:43:23,473 - AutoHealBuffWidget - WARNING - Satýr 8 için geçersiz koordinat formatý
+2025-04-25 19:43:23,473 - BuffWidget - INFO - Normal Buff tuþu '' olarak ayarlandý
+2025-04-25 19:43:23,473 - BuffWidget - INFO - Normal Buff süresi 60 saniye olarak ayarlandý
+2025-04-25 19:43:23,474 - BuffWidget - INFO - AC (Anti-Cheat) tuþu '' olarak ayarlandý
+2025-04-25 19:43:23,474 - BuffWidget - INFO - AC (Anti-Cheat) süresi 60 saniye olarak ayarlandý
+2025-04-25 19:43:23,474 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:43:23,474 - root - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:43:23,474 - root - INFO - Knight Online Otomatik Ýyileþtirme ve Buff Sistemi baþlatýldý.
+2025-04-25 19:43:27,472 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 300 ms olarak ayarlandý
+2025-04-25 19:43:27,497 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 300 ms olarak ayarlandý
+2025-04-25 19:43:27,535 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 300 ms olarak ayarlandý
+2025-04-25 19:44:04,590 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 300 ms olarak ayarlandý
+2025-04-25 19:44:04,610 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 300 ms olarak ayarlandý
+2025-04-25 19:44:04,862 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 300 ms olarak ayarlandý
+2025-04-25 19:44:04,887 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 300 ms olarak ayarlandý
+2025-04-25 19:44:04,910 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 300 ms olarak ayarlandý
+2025-04-25 19:44:14,445 - HealRowWidget - INFO - Satýr 6 aktif olarak ayarlandý
+2025-04-25 19:44:15,624 - AutoHealBuffWidget - INFO - AutoHealBuffWidget çalýþma durumu: Aktif
+2025-04-25 19:44:15,624 - root - INFO - HealHelper baþlatýldý.
+2025-04-25 19:44:15,624 - root - INFO - Ýyileþtirme yüzdesi: 80
+2025-04-25 19:44:15,624 - root - INFO - Ýyileþtirme tuþu: 122
+2025-04-25 19:44:15,624 - root - INFO - HealHelper aktif durumu: True
+2025-04-25 19:44:15,625 - root - INFO - Toplu iyileþtirme yüzdesi: 60
+2025-04-25 19:44:15,625 - root - INFO - Toplu iyileþtirme tuþu: 232
+2025-04-25 19:44:15,625 - root - INFO - Toplu iyileþtirme aktif durumu: True
+2025-04-25 19:44:15,625 - root - INFO - Parti kontrolü aktif durumu: False
+2025-04-25 19:44:15,625 - root - INFO - Satýr 6 aktif durumu: True
+2025-04-25 19:44:15,625 - root - INFO - Satýr 6 koordinatlarý ayarlandý: [1030, 464, 1123, 479]
+2025-04-25 19:44:15,625 - root - INFO - BuffHelper baþlatýldý.
+2025-04-25 19:44:15,626 - root - INFO - HealHelper çalýþma döngüsü baþlatýldý.
+2025-04-25 19:44:15,626 - root - INFO - Sistem baþlatýldý!
+2025-04-25 19:44:15,724 - ScreenService - ERROR - Tüm ekran görüntüsü alýnýrken hata: '_thread._local' object has no attribute 'srcdc'
+2025-04-25 19:44:15,762 - root - ERROR - Ýyileþtirme döngüsünde hata: 'numpy.ndarray' object has no attribute 'crop'
+2025-04-25 19:44:16,794 - root - ERROR - Ýyileþtirme döngüsünde hata: 'numpy.ndarray' object has no attribute 'crop'
+2025-04-25 19:44:17,829 - root - ERROR - Ýyileþtirme döngüsünde hata: 'numpy.ndarray' object has no attribute 'crop'
+2025-04-25 19:44:18,862 - root - ERROR - Ýyileþtirme döngüsünde hata: 'numpy.ndarray' object has no attribute 'crop'
+2025-04-25 19:44:19,863 - root - INFO - HealHelper durduruldu.
+2025-04-25 19:44:19,863 - root - INFO - BuffHelper durduruldu.
+2025-04-25 19:44:19,863 - AutoHealBuffWidget - INFO - AutoHealBuffWidget çalýþma durumu: Durduruldu
+2025-04-25 19:44:19,863 - root - INFO - Sistem durduruldu!
+2025-04-25 19:44:22,962 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla kaydedildi.
+2025-04-25 19:44:22,963 - SettingsManager - INFO - Yapýlandýrma dosyasý yedeklendi: settings.ini.bak
+2025-04-25 19:44:22,964 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla kaydedildi: settings.ini
+2025-04-25 19:44:22,964 - root - INFO - Ayarlar baþarýyla kaydedildi.
+2025-04-25 19:44:22,964 - root - INFO - Uygulama kapatýldý.
+2025-04-25 19:44:37,726 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-04-25 19:44:37,726 - qdarkstyle - INFO - Found version patches to be applied.
+2025-04-25 19:44:37,727 - qdarkstyle - INFO - Found application patches to be applied.
+2025-04-25 19:44:37,735 - ScreenService - INFO - MSS kütüphanesi baþlatýlýyor...
+2025-04-25 19:44:37,788 - ScreenService - INFO - MSS baþarýyla baþlatýldý ve test edildi.
+2025-04-25 19:44:37,790 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla yüklendi: settings.ini
+2025-04-25 19:44:37,931 - AutoHealBuffWidget - INFO - Auto Heal ve Buff arayüzü oluþturuldu.
+2025-04-25 19:44:37,933 - AutoHealBuffWidget - INFO - Ýyileþtirme tuþu '122' olarak ayarlandý
+2025-04-25 19:44:37,934 - AutoHealBuffWidget - INFO - Ýyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:44:37,934 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '232' olarak ayarlandý
+2025-04-25 19:44:37,934 - AutoHealBuffWidget - INFO - Toplu iyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:44:37,934 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 300 ms olarak ayarlandý
+2025-04-25 19:44:37,934 - AutoHealBuffWidget - WARNING - Satýr 1 için geçersiz koordinat formatý
+2025-04-25 19:44:37,934 - AutoHealBuffWidget - WARNING - Satýr 2 için geçersiz koordinat formatý
+2025-04-25 19:44:37,934 - AutoHealBuffWidget - WARNING - Satýr 3 için geçersiz koordinat formatý
+2025-04-25 19:44:37,934 - AutoHealBuffWidget - WARNING - Satýr 4 için geçersiz koordinat formatý
+2025-04-25 19:44:37,934 - AutoHealBuffWidget - WARNING - Satýr 5 için geçersiz koordinat formatý
+2025-04-25 19:44:37,935 - HealRowWidget - INFO - Satýr 6 aktif olarak ayarlandý
+2025-04-25 19:44:37,935 - AutoHealBuffWidget - WARNING - Satýr 7 için geçersiz koordinat formatý
+2025-04-25 19:44:37,935 - AutoHealBuffWidget - WARNING - Satýr 8 için geçersiz koordinat formatý
+2025-04-25 19:44:37,935 - BuffWidget - INFO - Normal Buff tuþu '' olarak ayarlandý
+2025-04-25 19:44:37,936 - BuffWidget - INFO - Normal Buff süresi 60 saniye olarak ayarlandý
+2025-04-25 19:44:37,936 - BuffWidget - INFO - AC (Anti-Cheat) tuþu '' olarak ayarlandý
+2025-04-25 19:44:37,937 - BuffWidget - INFO - AC (Anti-Cheat) süresi 60 saniye olarak ayarlandý
+2025-04-25 19:44:37,937 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:44:37,937 - root - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:44:37,937 - root - INFO - Knight Online Otomatik Ýyileþtirme ve Buff Sistemi baþlatýldý.
+2025-04-25 19:44:45,303 - AutoHealBuffWidget - INFO - AutoHealBuffWidget çalýþma durumu: Aktif
+2025-04-25 19:44:45,303 - root - INFO - HealHelper baþlatýldý.
+2025-04-25 19:44:45,303 - root - INFO - Ýyileþtirme yüzdesi: 80
+2025-04-25 19:44:45,303 - root - INFO - Ýyileþtirme tuþu: 122
+2025-04-25 19:44:45,303 - root - INFO - HealHelper aktif durumu: True
+2025-04-25 19:44:45,304 - root - INFO - Toplu iyileþtirme yüzdesi: 60
+2025-04-25 19:44:45,304 - root - INFO - Toplu iyileþtirme tuþu: 232
+2025-04-25 19:44:45,304 - root - INFO - Toplu iyileþtirme aktif durumu: True
+2025-04-25 19:44:45,304 - root - INFO - Parti kontrolü aktif durumu: False
+2025-04-25 19:44:45,304 - root - INFO - Satýr 6 aktif durumu: True
+2025-04-25 19:44:45,304 - root - INFO - Satýr 6 koordinatlarý ayarlandý: [1030, 464, 1123, 479]
+2025-04-25 19:44:45,304 - root - INFO - BuffHelper baþlatýldý.
+2025-04-25 19:44:45,305 - root - INFO - HealHelper çalýþma döngüsü baþlatýldý.
+2025-04-25 19:44:45,305 - root - INFO - Sistem baþlatýldý!
+2025-04-25 19:44:45,403 - ScreenService - ERROR - Tüm ekran görüntüsü alýnýrken hata: '_thread._local' object has no attribute 'srcdc'
+2025-04-25 19:44:45,437 - root - ERROR - Ýyileþtirme döngüsünde hata: 'numpy.ndarray' object has no attribute 'crop'
+2025-04-25 19:44:46,471 - root - ERROR - Ýyileþtirme döngüsünde hata: 'numpy.ndarray' object has no attribute 'crop'
+2025-04-25 19:44:47,505 - root - ERROR - Ýyileþtirme döngüsünde hata: 'numpy.ndarray' object has no attribute 'crop'
+2025-04-25 19:44:48,537 - root - ERROR - Ýyileþtirme döngüsünde hata: 'numpy.ndarray' object has no attribute 'crop'
+2025-04-25 19:44:49,539 - root - INFO - HealHelper durduruldu.
+2025-04-25 19:44:49,539 - root - INFO - BuffHelper durduruldu.
+2025-04-25 19:44:49,539 - AutoHealBuffWidget - INFO - AutoHealBuffWidget çalýþma durumu: Durduruldu
+2025-04-25 19:44:49,540 - root - INFO - Sistem durduruldu!
+2025-04-25 19:49:09,572 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-04-25 19:49:09,573 - qdarkstyle - INFO - Found version patches to be applied.
+2025-04-25 19:49:09,573 - qdarkstyle - INFO - Found application patches to be applied.
+2025-04-25 19:49:09,582 - ScreenService - INFO - MSS kütüphanesi baþlatýlýyor...
+2025-04-25 19:49:09,654 - ScreenService - INFO - MSS baþarýyla baþlatýldý ve test edildi.
+2025-04-25 19:49:09,656 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla yüklendi: settings.ini
+2025-04-25 19:49:09,851 - AutoHealBuffWidget - INFO - Auto Heal ve Buff arayüzü oluþturuldu.
+2025-04-25 19:49:09,852 - AutoHealBuffWidget - INFO - Ýyileþtirme tuþu '122' olarak ayarlandý
+2025-04-25 19:49:09,853 - AutoHealBuffWidget - INFO - Ýyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:49:09,853 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '232' olarak ayarlandý
+2025-04-25 19:49:09,853 - AutoHealBuffWidget - INFO - Toplu iyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:49:09,853 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 300 ms olarak ayarlandý
+2025-04-25 19:49:09,853 - AutoHealBuffWidget - WARNING - Satýr 1 için geçersiz koordinat formatý
+2025-04-25 19:49:09,853 - AutoHealBuffWidget - WARNING - Satýr 2 için geçersiz koordinat formatý
+2025-04-25 19:49:09,854 - AutoHealBuffWidget - WARNING - Satýr 3 için geçersiz koordinat formatý
+2025-04-25 19:49:09,854 - AutoHealBuffWidget - WARNING - Satýr 4 için geçersiz koordinat formatý
+2025-04-25 19:49:09,854 - AutoHealBuffWidget - WARNING - Satýr 5 için geçersiz koordinat formatý
+2025-04-25 19:49:09,855 - HealRowWidget - INFO - Satýr 6 aktif olarak ayarlandý
+2025-04-25 19:49:09,855 - AutoHealBuffWidget - WARNING - Satýr 7 için geçersiz koordinat formatý
+2025-04-25 19:49:09,855 - AutoHealBuffWidget - WARNING - Satýr 8 için geçersiz koordinat formatý
+2025-04-25 19:49:09,855 - BuffWidget - INFO - Normal Buff tuþu '' olarak ayarlandý
+2025-04-25 19:49:09,855 - BuffWidget - INFO - Normal Buff süresi 60 saniye olarak ayarlandý
+2025-04-25 19:49:09,855 - BuffWidget - INFO - AC (Anti-Cheat) tuþu '' olarak ayarlandý
+2025-04-25 19:49:09,856 - BuffWidget - INFO - AC (Anti-Cheat) süresi 60 saniye olarak ayarlandý
+2025-04-25 19:49:09,856 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:49:09,856 - root - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:49:09,856 - root - INFO - Knight Online Otomatik Ýyileþtirme ve Buff Sistemi baþlatýldý.
+2025-04-25 19:49:48,411 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-04-25 19:49:48,412 - qdarkstyle - INFO - Found version patches to be applied.
+2025-04-25 19:49:48,412 - qdarkstyle - INFO - Found application patches to be applied.
+2025-04-25 19:49:48,419 - ScreenService - INFO - MSS kütüphanesi baþlatýlýyor...
+2025-04-25 19:49:48,480 - ScreenService - INFO - MSS baþarýyla baþlatýldý ve test edildi.
+2025-04-25 19:49:48,482 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla yüklendi: settings.ini
+2025-04-25 19:49:48,623 - AutoHealBuffWidget - INFO - Auto Heal ve Buff arayüzü oluþturuldu.
+2025-04-25 19:49:48,624 - AutoHealBuffWidget - INFO - Ýyileþtirme tuþu '122' olarak ayarlandý
+2025-04-25 19:49:48,625 - AutoHealBuffWidget - INFO - Ýyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:49:48,625 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '232' olarak ayarlandý
+2025-04-25 19:49:48,625 - AutoHealBuffWidget - INFO - Toplu iyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:49:48,625 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 300 ms olarak ayarlandý
+2025-04-25 19:49:48,625 - AutoHealBuffWidget - WARNING - Satýr 1 için geçersiz koordinat formatý
+2025-04-25 19:49:48,626 - AutoHealBuffWidget - WARNING - Satýr 2 için geçersiz koordinat formatý
+2025-04-25 19:49:48,626 - AutoHealBuffWidget - WARNING - Satýr 3 için geçersiz koordinat formatý
+2025-04-25 19:49:48,626 - AutoHealBuffWidget - WARNING - Satýr 4 için geçersiz koordinat formatý
+2025-04-25 19:49:48,626 - AutoHealBuffWidget - WARNING - Satýr 5 için geçersiz koordinat formatý
+2025-04-25 19:49:48,627 - HealRowWidget - INFO - Satýr 6 aktif olarak ayarlandý
+2025-04-25 19:49:48,627 - AutoHealBuffWidget - WARNING - Satýr 7 için geçersiz koordinat formatý
+2025-04-25 19:49:48,627 - AutoHealBuffWidget - WARNING - Satýr 8 için geçersiz koordinat formatý
+2025-04-25 19:49:48,627 - BuffWidget - INFO - Normal Buff tuþu '' olarak ayarlandý
+2025-04-25 19:49:48,627 - BuffWidget - INFO - Normal Buff süresi 60 saniye olarak ayarlandý
+2025-04-25 19:49:48,627 - BuffWidget - INFO - AC (Anti-Cheat) tuþu '' olarak ayarlandý
+2025-04-25 19:49:48,627 - BuffWidget - INFO - AC (Anti-Cheat) süresi 60 saniye olarak ayarlandý
+2025-04-25 19:49:48,628 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:49:48,628 - root - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:49:48,628 - root - INFO - Knight Online Otomatik Ýyileþtirme ve Buff Sistemi baþlatýldý.
+2025-04-25 19:49:51,431 - AutoHealBuffWidget - INFO - AutoHealBuffWidget çalýþma durumu: Aktif
+2025-04-25 19:49:51,431 - root - INFO - HealHelper baþlatýldý.
+2025-04-25 19:49:51,432 - root - INFO - Ýyileþtirme yüzdesi: 80
+2025-04-25 19:49:51,432 - root - INFO - Ýyileþtirme tuþu: 122
+2025-04-25 19:49:51,432 - root - INFO - HealHelper aktif durumu: True
+2025-04-25 19:49:51,432 - root - INFO - Toplu iyileþtirme yüzdesi: 60
+2025-04-25 19:49:51,432 - root - INFO - Toplu iyileþtirme tuþu: 232
+2025-04-25 19:49:51,432 - root - INFO - Toplu iyileþtirme aktif durumu: True
+2025-04-25 19:49:51,433 - root - INFO - Parti kontrolü aktif durumu: False
+2025-04-25 19:49:51,433 - root - INFO - Satýr 6 aktif durumu: True
+2025-04-25 19:49:51,433 - root - INFO - Satýr 6 koordinatlarý ayarlandý: [1030, 464, 1123, 479]
+2025-04-25 19:49:51,433 - root - INFO - BuffHelper baþlatýldý.
+2025-04-25 19:49:51,434 - root - INFO - HealHelper çalýþma döngüsü baþlatýldý.
+2025-04-25 19:49:51,434 - root - INFO - Sistem baþlatýldý!
+2025-04-25 19:49:51,532 - ScreenService - ERROR - Tüm ekran görüntüsü alýnýrken hata: '_thread._local' object has no attribute 'srcdc'
+2025-04-25 19:49:51,573 - root - ERROR - Ýyileþtirme döngüsünde hata: 'numpy.ndarray' object has no attribute 'crop'
+2025-04-25 19:49:52,613 - root - ERROR - Ýyileþtirme döngüsünde hata: 'numpy.ndarray' object has no attribute 'crop'
+2025-04-25 19:49:53,614 - root - INFO - HealHelper durduruldu.
+2025-04-25 19:49:53,614 - root - INFO - BuffHelper durduruldu.
+2025-04-25 19:49:53,614 - AutoHealBuffWidget - INFO - AutoHealBuffWidget çalýþma durumu: Durduruldu
+2025-04-25 19:49:53,614 - root - INFO - Sistem durduruldu!
+2025-04-25 19:49:53,615 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla kaydedildi.
+2025-04-25 19:49:53,617 - SettingsManager - INFO - Yapýlandýrma dosyasý yedeklendi: settings.ini.bak
+2025-04-25 19:49:53,618 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla kaydedildi: settings.ini
+2025-04-25 19:49:53,618 - root - INFO - Ayarlar baþarýyla kaydedildi.
+2025-04-25 19:49:53,618 - root - INFO - Uygulama kapatýldý.
+2025-04-25 19:52:05,779 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-04-25 19:52:05,779 - qdarkstyle - INFO - Found version patches to be applied.
+2025-04-25 19:52:05,779 - qdarkstyle - INFO - Found application patches to be applied.
+2025-04-25 19:52:05,787 - ScreenService - INFO - MSS kütüphanesi baþlatýlýyor...
+2025-04-25 19:52:05,849 - ScreenService - INFO - MSS baþarýyla baþlatýldý ve test edildi.
+2025-04-25 19:52:05,851 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla yüklendi: settings.ini
+2025-04-25 19:52:05,998 - AutoHealBuffWidget - INFO - Auto Heal ve Buff arayüzü oluþturuldu.
+2025-04-25 19:52:05,999 - AutoHealBuffWidget - INFO - Ýyileþtirme tuþu '122' olarak ayarlandý
+2025-04-25 19:52:05,999 - AutoHealBuffWidget - INFO - Ýyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:52:05,999 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '232' olarak ayarlandý
+2025-04-25 19:52:06,001 - AutoHealBuffWidget - INFO - Toplu iyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:52:06,001 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 300 ms olarak ayarlandý
+2025-04-25 19:52:06,001 - AutoHealBuffWidget - WARNING - Satýr 1 için geçersiz koordinat formatý
+2025-04-25 19:52:06,001 - AutoHealBuffWidget - WARNING - Satýr 2 için geçersiz koordinat formatý
+2025-04-25 19:52:06,001 - AutoHealBuffWidget - WARNING - Satýr 3 için geçersiz koordinat formatý
+2025-04-25 19:52:06,001 - AutoHealBuffWidget - WARNING - Satýr 4 için geçersiz koordinat formatý
+2025-04-25 19:52:06,001 - AutoHealBuffWidget - WARNING - Satýr 5 için geçersiz koordinat formatý
+2025-04-25 19:52:06,002 - HealRowWidget - INFO - Satýr 6 aktif olarak ayarlandý
+2025-04-25 19:52:06,002 - AutoHealBuffWidget - WARNING - Satýr 7 için geçersiz koordinat formatý
+2025-04-25 19:52:06,002 - AutoHealBuffWidget - WARNING - Satýr 8 için geçersiz koordinat formatý
+2025-04-25 19:52:06,002 - BuffWidget - INFO - Normal Buff tuþu '' olarak ayarlandý
+2025-04-25 19:52:06,002 - BuffWidget - INFO - Normal Buff süresi 60 saniye olarak ayarlandý
+2025-04-25 19:52:06,002 - BuffWidget - INFO - AC (Anti-Cheat) tuþu '' olarak ayarlandý
+2025-04-25 19:52:06,002 - BuffWidget - INFO - AC (Anti-Cheat) süresi 60 saniye olarak ayarlandý
+2025-04-25 19:52:06,003 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:52:06,003 - root - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:52:06,003 - root - INFO - Knight Online Otomatik Ýyileþtirme ve Buff Sistemi baþlatýldý.
+2025-04-25 19:52:08,558 - AutoHealBuffWidget - INFO - AutoHealBuffWidget çalýþma durumu: Aktif
+2025-04-25 19:52:08,559 - root - INFO - HealHelper baþlatýldý.
+2025-04-25 19:52:08,559 - root - INFO - Ýyileþtirme yüzdesi: 80
+2025-04-25 19:52:08,559 - root - INFO - Ýyileþtirme tuþu: 122
+2025-04-25 19:52:08,560 - root - INFO - HealHelper aktif durumu: True
+2025-04-25 19:52:08,560 - root - INFO - Toplu iyileþtirme yüzdesi: 60
+2025-04-25 19:52:08,560 - root - INFO - Toplu iyileþtirme tuþu: 232
+2025-04-25 19:52:08,560 - root - INFO - Toplu iyileþtirme aktif durumu: True
+2025-04-25 19:52:08,560 - root - INFO - Parti kontrolü aktif durumu: False
+2025-04-25 19:52:08,561 - root - INFO - Satýr 6 aktif durumu: True
+2025-04-25 19:52:08,561 - root - INFO - Satýr 6 koordinatlarý ayarlandý: [1030, 464, 1123, 479]
+2025-04-25 19:52:08,561 - root - INFO - BuffHelper baþlatýldý.
+2025-04-25 19:52:08,561 - root - INFO - HealHelper çalýþma döngüsü baþlatýldý.
+2025-04-25 19:52:08,562 - root - INFO - Sistem baþlatýldý!
+2025-04-25 19:52:08,660 - ScreenService - ERROR - Tüm ekran görüntüsü alýnýrken hata: '_thread._local' object has no attribute 'srcdc'
+2025-04-25 19:52:09,960 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:11,049 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:11,792 - root - INFO - Toplu iyileþtirme yapýldý (1 satýr düþük HP).
+2025-04-25 19:52:12,177 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:13,272 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:14,366 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:14,366 - root - INFO - HealHelper durduruldu.
+2025-04-25 19:52:14,366 - root - INFO - BuffHelper durduruldu.
+2025-04-25 19:52:14,367 - AutoHealBuffWidget - INFO - AutoHealBuffWidget çalýþma durumu: Durduruldu
+2025-04-25 19:52:14,367 - root - INFO - Sistem durduruldu!
+2025-04-25 19:52:14,830 - AutoHealBuffWidget - INFO - AutoHealBuffWidget çalýþma durumu: Aktif
+2025-04-25 19:52:14,830 - root - INFO - HealHelper baþlatýldý.
+2025-04-25 19:52:14,831 - root - INFO - Ýyileþtirme yüzdesi: 80
+2025-04-25 19:52:14,831 - root - INFO - Ýyileþtirme tuþu: 122
+2025-04-25 19:52:14,831 - root - INFO - HealHelper aktif durumu: True
+2025-04-25 19:52:14,831 - root - INFO - Toplu iyileþtirme yüzdesi: 60
+2025-04-25 19:52:14,831 - root - INFO - Toplu iyileþtirme tuþu: 232
+2025-04-25 19:52:14,831 - root - INFO - Toplu iyileþtirme aktif durumu: True
+2025-04-25 19:52:14,832 - root - INFO - Parti kontrolü aktif durumu: False
+2025-04-25 19:52:14,832 - root - INFO - Satýr 6 aktif durumu: True
+2025-04-25 19:52:14,832 - root - INFO - Satýr 6 koordinatlarý ayarlandý: [1030, 464, 1123, 479]
+2025-04-25 19:52:14,832 - root - INFO - BuffHelper baþlatýldý.
+2025-04-25 19:52:14,833 - root - INFO - HealHelper çalýþma döngüsü baþlatýldý.
+2025-04-25 19:52:14,833 - root - INFO - Sistem baþlatýldý!
+2025-04-25 19:52:16,223 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:17,322 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:18,059 - root - INFO - Toplu iyileþtirme yapýldý (1 satýr düþük HP).
+2025-04-25 19:52:18,455 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:18,994 - root - INFO - HealHelper durduruldu.
+2025-04-25 19:52:18,994 - root - INFO - BuffHelper durduruldu.
+2025-04-25 19:52:18,994 - AutoHealBuffWidget - INFO - AutoHealBuffWidget çalýþma durumu: Durduruldu
+2025-04-25 19:52:18,995 - root - INFO - Sistem durduruldu!
+2025-04-25 19:52:31,606 - AutoHealBuffWidget - INFO - AutoHealBuffWidget çalýþma durumu: Aktif
+2025-04-25 19:52:31,606 - root - INFO - HealHelper baþlatýldý.
+2025-04-25 19:52:31,607 - root - INFO - Ýyileþtirme yüzdesi: 80
+2025-04-25 19:52:31,607 - root - INFO - Ýyileþtirme tuþu: 122
+2025-04-25 19:52:31,607 - root - INFO - HealHelper aktif durumu: True
+2025-04-25 19:52:31,608 - root - INFO - Toplu iyileþtirme yüzdesi: 60
+2025-04-25 19:52:31,608 - root - INFO - Toplu iyileþtirme tuþu: 232
+2025-04-25 19:52:31,608 - root - INFO - Toplu iyileþtirme aktif durumu: True
+2025-04-25 19:52:31,609 - root - INFO - Parti kontrolü aktif durumu: False
+2025-04-25 19:52:31,609 - root - INFO - Satýr 6 aktif durumu: True
+2025-04-25 19:52:31,609 - root - INFO - Satýr 6 koordinatlarý ayarlandý: [1030, 464, 1123, 479]
+2025-04-25 19:52:31,609 - root - INFO - BuffHelper baþlatýldý.
+2025-04-25 19:52:31,611 - root - INFO - HealHelper çalýþma döngüsü baþlatýldý.
+2025-04-25 19:52:31,612 - root - INFO - Sistem baþlatýldý!
+2025-04-25 19:52:32,708 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-04-25 19:52:32,708 - qdarkstyle - INFO - Found version patches to be applied.
+2025-04-25 19:52:32,708 - qdarkstyle - INFO - Found application patches to be applied.
+2025-04-25 19:52:32,717 - ScreenService - INFO - MSS kütüphanesi baþlatýlýyor...
+2025-04-25 19:52:32,777 - ScreenService - INFO - MSS baþarýyla baþlatýldý ve test edildi.
+2025-04-25 19:52:32,779 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla yüklendi: settings.ini
+2025-04-25 19:52:32,984 - AutoHealBuffWidget - INFO - Auto Heal ve Buff arayüzü oluþturuldu.
+2025-04-25 19:52:32,985 - AutoHealBuffWidget - INFO - Ýyileþtirme tuþu '122' olarak ayarlandý
+2025-04-25 19:52:32,985 - AutoHealBuffWidget - INFO - Ýyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:52:32,985 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '232' olarak ayarlandý
+2025-04-25 19:52:32,987 - AutoHealBuffWidget - INFO - Toplu iyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:52:32,987 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 300 ms olarak ayarlandý
+2025-04-25 19:52:32,987 - AutoHealBuffWidget - WARNING - Satýr 1 için geçersiz koordinat formatý
+2025-04-25 19:52:32,987 - AutoHealBuffWidget - WARNING - Satýr 2 için geçersiz koordinat formatý
+2025-04-25 19:52:32,987 - AutoHealBuffWidget - WARNING - Satýr 3 için geçersiz koordinat formatý
+2025-04-25 19:52:32,987 - AutoHealBuffWidget - WARNING - Satýr 4 için geçersiz koordinat formatý
+2025-04-25 19:52:32,988 - AutoHealBuffWidget - WARNING - Satýr 5 için geçersiz koordinat formatý
+2025-04-25 19:52:32,988 - HealRowWidget - INFO - Satýr 6 aktif olarak ayarlandý
+2025-04-25 19:52:32,988 - AutoHealBuffWidget - WARNING - Satýr 7 için geçersiz koordinat formatý
+2025-04-25 19:52:32,988 - AutoHealBuffWidget - WARNING - Satýr 8 için geçersiz koordinat formatý
+2025-04-25 19:52:32,989 - BuffWidget - INFO - Normal Buff tuþu '' olarak ayarlandý
+2025-04-25 19:52:32,989 - BuffWidget - INFO - Normal Buff süresi 60 saniye olarak ayarlandý
+2025-04-25 19:52:32,989 - BuffWidget - INFO - AC (Anti-Cheat) tuþu '' olarak ayarlandý
+2025-04-25 19:52:32,989 - BuffWidget - INFO - AC (Anti-Cheat) süresi 60 saniye olarak ayarlandý
+2025-04-25 19:52:32,989 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:52:32,989 - root - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:52:32,989 - root - INFO - Knight Online Otomatik Ýyileþtirme ve Buff Sistemi baþlatýldý.
+2025-04-25 19:52:33,008 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:34,099 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:34,843 - root - INFO - Toplu iyileþtirme yapýldý (1 satýr düþük HP).
+2025-04-25 19:52:35,239 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:36,239 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:37,232 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:37,868 - root - INFO - Toplu iyileþtirme yapýldý (1 satýr düþük HP).
+2025-04-25 19:52:38,254 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:39,344 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:40,433 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:40,973 - root - INFO - Toplu iyileþtirme yapýldý (1 satýr düþük HP).
+2025-04-25 19:52:41,464 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:42,559 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:43,665 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:44,002 - root - INFO - Toplu iyileþtirme yapýldý (1 satýr düþük HP).
+2025-04-25 19:52:44,688 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:45,777 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:46,873 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:47,016 - root - INFO - Toplu iyileþtirme yapýldý (1 satýr düþük HP).
+2025-04-25 19:52:47,906 - root - INFO - Satýr 6 iyileþtirildi (HP: %0).
+2025-04-25 19:52:48,308 - root - INFO - HealHelper durduruldu.
+2025-04-25 19:52:48,308 - root - INFO - BuffHelper durduruldu.
+2025-04-25 19:52:48,309 - AutoHealBuffWidget - INFO - AutoHealBuffWidget çalýþma durumu: Durduruldu
+2025-04-25 19:52:48,309 - root - INFO - Sistem durduruldu!
+2025-04-25 19:52:50,534 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla kaydedildi.
+2025-04-25 19:52:50,535 - SettingsManager - INFO - Yapýlandýrma dosyasý yedeklendi: settings.ini.bak
+2025-04-25 19:52:50,536 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla kaydedildi: settings.ini
+2025-04-25 19:52:50,536 - root - INFO - Ayarlar baþarýyla kaydedildi.
+2025-04-25 19:52:50,536 - root - INFO - Uygulama kapatýldý.
+2025-04-25 19:52:53,261 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla kaydedildi.
+2025-04-25 19:52:53,262 - SettingsManager - INFO - Yapýlandýrma dosyasý yedeklendi: settings.ini.bak
+2025-04-25 19:52:53,263 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla kaydedildi: settings.ini
+2025-04-25 19:52:53,263 - root - INFO - Ayarlar baþarýyla kaydedildi.
+2025-04-25 19:52:53,263 - root - INFO - Uygulama kapatýldý.
+2025-04-25 19:53:00,814 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-04-25 19:53:00,814 - qdarkstyle - INFO - Found version patches to be applied.
+2025-04-25 19:53:00,815 - qdarkstyle - INFO - Found application patches to be applied.
+2025-04-25 19:53:00,821 - ScreenService - INFO - MSS kütüphanesi baþlatýlýyor...
+2025-04-25 19:53:00,882 - ScreenService - INFO - MSS baþarýyla baþlatýldý ve test edildi.
+2025-04-25 19:53:00,883 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla yüklendi: settings.ini
+2025-04-25 19:53:01,019 - AutoHealBuffWidget - INFO - Auto Heal ve Buff arayüzü oluþturuldu.
+2025-04-25 19:53:01,021 - AutoHealBuffWidget - INFO - Ýyileþtirme tuþu '122' olarak ayarlandý
+2025-04-25 19:53:01,021 - AutoHealBuffWidget - INFO - Ýyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:53:01,021 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '232' olarak ayarlandý
+2025-04-25 19:53:01,021 - AutoHealBuffWidget - INFO - Toplu iyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:53:01,021 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 300 ms olarak ayarlandý
+2025-04-25 19:53:01,021 - AutoHealBuffWidget - WARNING - Satýr 1 için geçersiz koordinat formatý
+2025-04-25 19:53:01,021 - AutoHealBuffWidget - WARNING - Satýr 2 için geçersiz koordinat formatý
+2025-04-25 19:53:01,021 - AutoHealBuffWidget - WARNING - Satýr 3 için geçersiz koordinat formatý
+2025-04-25 19:53:01,021 - AutoHealBuffWidget - WARNING - Satýr 4 için geçersiz koordinat formatý
+2025-04-25 19:53:01,022 - AutoHealBuffWidget - WARNING - Satýr 5 için geçersiz koordinat formatý
+2025-04-25 19:53:01,022 - HealRowWidget - INFO - Satýr 6 aktif olarak ayarlandý
+2025-04-25 19:53:01,022 - AutoHealBuffWidget - WARNING - Satýr 7 için geçersiz koordinat formatý
+2025-04-25 19:53:01,022 - AutoHealBuffWidget - WARNING - Satýr 8 için geçersiz koordinat formatý
+2025-04-25 19:53:01,022 - BuffWidget - INFO - Normal Buff tuþu '' olarak ayarlandý
+2025-04-25 19:53:01,022 - BuffWidget - INFO - Normal Buff süresi 60 saniye olarak ayarlandý
+2025-04-25 19:53:01,022 - BuffWidget - INFO - AC (Anti-Cheat) tuþu '' olarak ayarlandý
+2025-04-25 19:53:01,022 - BuffWidget - INFO - AC (Anti-Cheat) süresi 60 saniye olarak ayarlandý
+2025-04-25 19:53:01,022 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:53:01,023 - root - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:53:01,023 - root - INFO - Knight Online Otomatik Ýyileþtirme ve Buff Sistemi baþlatýldý.
+2025-04-25 19:53:23,762 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-04-25 19:53:23,763 - qdarkstyle - INFO - Found version patches to be applied.
+2025-04-25 19:53:23,763 - qdarkstyle - INFO - Found application patches to be applied.
+2025-04-25 19:53:23,771 - ScreenService - INFO - MSS kütüphanesi baþlatýlýyor...
+2025-04-25 19:53:23,831 - ScreenService - INFO - MSS baþarýyla baþlatýldý ve test edildi.
+2025-04-25 19:53:23,832 - SettingsManager - INFO - Yapýlandýrma dosyasý baþarýyla yüklendi: settings.ini
+2025-04-25 19:53:23,981 - AutoHealBuffWidget - INFO - Auto Heal ve Buff arayüzü oluþturuldu.
+2025-04-25 19:53:23,983 - AutoHealBuffWidget - INFO - Ýyileþtirme tuþu '122' olarak ayarlandý
+2025-04-25 19:53:23,983 - AutoHealBuffWidget - INFO - Ýyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:53:23,983 - AutoHealBuffWidget - INFO - Toplu iyileþtirme tuþu '232' olarak ayarlandý
+2025-04-25 19:53:23,983 - AutoHealBuffWidget - INFO - Toplu iyileþtirme aktif durumu deðiþti: True
+2025-04-25 19:53:23,984 - AutoHealBuffWidget - INFO - Buff kontrol frekansý 300 ms olarak ayarlandý
+2025-04-25 19:53:23,984 - AutoHealBuffWidget - WARNING - Satýr 1 için geçersiz koordinat formatý
+2025-04-25 19:53:23,984 - AutoHealBuffWidget - WARNING - Satýr 2 için geçersiz koordinat formatý
+2025-04-25 19:53:23,984 - AutoHealBuffWidget - WARNING - Satýr 3 için geçersiz koordinat formatý
+2025-04-25 19:53:23,984 - AutoHealBuffWidget - WARNING - Satýr 4 için geçersiz koordinat formatý
+2025-04-25 19:53:23,985 - AutoHealBuffWidget - WARNING - Satýr 5 için geçersiz koordinat formatý
+2025-04-25 19:53:23,985 - HealRowWidget - INFO - Satýr 6 aktif olarak ayarlandý
+2025-04-25 19:53:23,985 - AutoHealBuffWidget - WARNING - Satýr 7 için geçersiz koordinat formatý
+2025-04-25 19:53:23,985 - AutoHealBuffWidget - WARNING - Satýr 8 için geçersiz koordinat formatý
+2025-04-25 19:53:23,985 - BuffWidget - INFO - Normal Buff tuþu '' olarak ayarlandý
+2025-04-25 19:53:23,985 - BuffWidget - INFO - Normal Buff süresi 60 saniye olarak ayarlandý
+2025-04-25 19:53:23,985 - BuffWidget - INFO - AC (Anti-Cheat) tuþu '' olarak ayarlandý
+2025-04-25 19:53:23,985 - BuffWidget - INFO - AC (Anti-Cheat) süresi 60 saniye olarak ayarlandý
+2025-04-25 19:53:23,985 - AutoHealBuffWidget - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:53:23,985 - root - INFO - Ayarlar baþarýyla yüklendi.
+2025-04-25 19:53:23,985 - root - INFO - Knight Online Otomatik Ýyileþtirme ve Buff Sistemi baþlatýldý.
+2025-04-25 19:53:27,991 - HealRowWidget - INFO - Satýr 6 pasif olarak ayarlandý
